@@ -1,8 +1,6 @@
-# Solutions Full Stack Deep Learning - Course 2022
+# Solutions of Full Stack Deep Learning - Course 2022
 
-Access all lectures and labworks at [Full Stack Deep Learning - DSDL 2022](https://fullstackdeeplearning.com/course/2022/). Shout out to all the amazing lectures and TAs!
-
-This repo contains the **SOLUTIONS** in Jupyter notebook format of exercises/labs of the course. The notebooks are organized in the same way as the course material. The notebooks are named `Solution-<name-of-the-notebook>.ipynb`. For example, the solution to the notebook `Lab-01-Neural-Network-in-PyTorch.ipynb` is named `Solution-Lab-01-Neural-Network-in-PyTorch.ipynb`.
+This repo contains the **SOLUTIONS** in Jupyter notebook format of exercises/labs of the [Full Stack Deep Learning - DSDL 2022](https://fullstackdeeplearning.com/course/2022/) course. The solution notebooks are named `Solution-<name-of-the-notebook>.ipynb`. For example, the solution to the notebook `Lab-01-Neural-Network-in-PyTorch.ipynb` is named `Solution-Lab-01-Neural-Network-in-PyTorch.ipynb`. Shout out to all the lectures and TAs for the amazing resources!
 
 ## Couse Structure
 
@@ -17,6 +15,12 @@ This lecture introduces the course vision and the course structure. It also intr
 - [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/lecture-1-course-vision-and-when-to-use-ml/)
 
 #### Lecture 2: Development Infrastructure & Tooling
+
+This lecture covers what you need to develop deep learning models, from software engineering to distributed training to experiment management.
+
+- [x] [Slide](https://drive.google.com/file/d/16pEG5GesO4_UAWiD5jrIReMGzoyn165M/view)
+- [x] [Video](https://www.youtube.com/watch?v=BPYOsDCZbno)
+- [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/lecture-2-development-infrastructure-and-tooling/)
 
 #### Lecture 3: Troubleshooting & Testing
 
