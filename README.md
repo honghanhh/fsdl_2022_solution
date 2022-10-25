@@ -96,6 +96,6 @@ This lecture covers the ethical dimensions of building ML-powered products: past
 
 ## Disclaimer
 
-The solutions here are **ONLY FOR REFERENCE** to guide you if you get stuck somewhere. Highly recommended to try out the quizzes and assignments yourselves first before referring to the solutions here.
+The solutions here are **ONLY FOR REFERENCE** to guide you if you get stuck somewhere. Highly recommended to try out the yourselves first before referring to the solutions here.
 
 Feel free to discuss further with me on [![Linkedin: hognhanhh](https://img.shields.io/badge/-HongHanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thi-hong-hanh-tran-0b886212a/)](https://www.linkedin.com/in/thi-hong-hanh-tran-0b886212a/).
