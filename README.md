@@ -82,17 +82,51 @@ This lecture covers the ethical dimensions of building ML-powered products: past
 
 #### Lab Overview
 
+- [x] [Video](https://www.youtube.com/watch?v=hltjXcaxExY)
+- [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/lab-0-overview/)
+- [x] [Lab 00: The 🥞 Full Stack 🥞 of the Text Recognizer Application](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/overview.ipynb)
+
 #### Labs 1-3: CNNs, Transformers, PyTorch Lightning
+
+- [x] [Video]()
+- [x] [Lecture Notes]()
+- [x] [Lab]()
+- [] [Solution]()
 
 #### Lab 4: Experiment Management
 
+- [x] [Video]()
+- [x] [Lecture Notes]()
+- [x] [Lab]()
+- [] [Solution]()
+
 #### Lab 5: Troubleshooting & Testing
+
+- [x] [Video]()
+- [x] [Lecture Notes]()
+- [x] [Lab]()
+- [] [Solution]()
 
 #### Lab 6: Data Annotation
 
+- [x] [Video]()
+- [x] [Lecture Notes]()
+- [x] [Lab]()
+- [] [Solution]()
+
 #### Lab 7: Web Deployment
 
+- [x] [Video]()
+- [x] [Lecture Notes]()
+- [x] [Lab]()
+- [] [Solution]()
+
 #### Lab 8: Model Monitoring
+
+- [x] [Video]()
+- [x] [Lecture Notes]()
+- [x] [Lab]()
+- [] [Solution]()
 
 ## Disclaimer
 
