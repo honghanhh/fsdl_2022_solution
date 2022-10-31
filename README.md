@@ -86,46 +86,67 @@ This lecture covers the ethical dimensions of building ML-powered products: past
 - [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/lab-0-overview/)
 - [x] [Lab 00: The 🥞 Full Stack 🥞 of the Text Recognizer Application](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/overview.ipynb)
 
-#### Labs 1-3: CNNs, Transformers, PyTorch Lightning
+#### Lab 1:  Deep Neural Networks in PyTorch
 
-- [x] [Video]()
-- [x] [Lecture Notes]()
-- [x] [Lab]()
+- [x] [Video](https://www.youtube.com/watch?v=9w8CVuHUk8U)
+- [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/labs-1-3-cnns-transformers-pytorch-lightning/)
+- [x] [Lab](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab01/notebooks/lab01_pytorch.ipynb)
+- [] [Solution]()
+
+#### Lab 2a:  PyTorch Lightning
+
+- [x] [Video](https://www.youtube.com/watch?v=6fSd8RdtDBss)
+- [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/labs-1-3-cnns-transformers-pytorch-lightning/)
+- [x] [Lab](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab02/notebooks/lab02a_lightning.ipynb)
+- [] [Solution]()
+
+#### Lab 2b: Training a CNN on Synthetic Handwriting Data
+
+- [x] [Video](https://www.youtube.com/watch?v=6fSd8RdtDBs)
+- [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/labs-1-3-cnns-transformers-pytorch-lightning/)
+- [x] [Lab](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab02/notebooks/lab02b_cnn.ipynb)
+- [] [Solution]()
+
+#### Lab 3: Transformers and Paragraphs
+
+- [x] [Video](https://www.youtube.com/watch?v=lsWLgQyaeik)
+- [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/labs-1-3-cnns-transformers-pytorch-lightning/)
+- [x] [Lab](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab03/notebooks/lab03_transformers.ipynb)
 - [] [Solution]()
 
 #### Lab 4: Experiment Management
 
-- [x] [Video]()
-- [x] [Lecture Notes]()
-- [x] [Lab]()
+- [x] [Video](https://www.youtube.com/watch?v=NEGDJuINE9E)
+- [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/lab-4-experiment-management/)
+- [x] [Lab](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab04/notebooks/lab04_experiments.ipynb)
 - [] [Solution]()
 
 #### Lab 5: Troubleshooting & Testing
 
-- [x] [Video]()
-- [x] [Lecture Notes]()
-- [x] [Lab]()
+- [x] [Video](https://www.youtube.com/watch?v=D65SlCSoS-0)
+- [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/lab-5-troubleshooting-and-testing/)
+- [x] [Lab](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab05/notebooks/lab05_troubleshooting.ipynb)
 - [] [Solution]()
 
 #### Lab 6: Data Annotation
 
-- [x] [Video]()
-- [x] [Lecture Notes]()
-- [x] [Lab]()
+- [x] [Video](https://www.youtube.com/watch?v=zoS5Fx2Ou1Y)
+- [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/lab-6-data-annotation/)
+- [x] [Lab](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab06/notebooks/lab06_data.ipynb)
 - [] [Solution]()
 
 #### Lab 7: Web Deployment
 
-- [x] [Video]()
-- [x] [Lecture Notes]()
-- [x] [Lab]()
+- [x] [Video](https://www.youtube.com/watch?v=2j6rG-4zS6w)
+- [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/lab-7-web-deployment/)
+- [x] [Lab](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab07/notebooks/lab07_deployment.ipynb)
 - [] [Solution]()
 
 #### Lab 8: Model Monitoring
 
-- [x] [Video]()
-- [x] [Lecture Notes]()
-- [x] [Lab]()
+- [x] [Video](https://www.youtube.com/watch?v=-mKzxSC0r7w)
+- [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/lecture-8-teams-and-pm/)
+- [x] [Lab](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab08/notebooks/lab08_monitoring.ipynb)
 - [] [Solution]()
 
 ## Disclaimer
