@@ -1,6 +1,6 @@
 # Solutions of Full Stack Deep Learning - Course 2022
 
-This repo contains the **SOLUTIONS** in Jupyter notebook format of exercises/labs of the [Full Stack Deep Learning - DSDL 2022](https://fullstackdeeplearning.com/course/2022/) course. The solution notebooks are named `Solution-<name-of-the-notebook>.ipynb`. For example, the solution to the notebook `Lab-01-Neural-Network-in-PyTorch.ipynb` is named `Solution-Lab-01-Neural-Network-in-PyTorch.ipynb`. Shout out to all the lectures and TAs for the amazing resources!
+This repo contains the **SOLUTIONS** in Jupyter notebook format of exercises/labs of the [Full Stack Deep Learning - DSDL 2022](https://fullstackdeeplearning.com/course/2022/) course. The solution notebooks are named `solution_<name_of_the_notebook>.ipynb`. For example, the solution to the notebook `lab01_pytorch.ipynb` is named `solution_lab01_pytorch.ipynb`. Shout out to all the lectures and TAs for the amazing resources!
 
 ## Couse Structure
 
@@ -90,7 +90,7 @@ This lecture covers the ethical dimensions of building ML-powered products: past
 
 - [x] [Video](https://www.youtube.com/watch?v=9w8CVuHUk8U)
 - [x] [Lecture Notes](https://fullstackdeeplearning.com/course/2022/labs-1-3-cnns-transformers-pytorch-lightning/)
-- [x] [Lab](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab01/notebooks/lab01_pytorch.ipynb)
+- [x] [Lab 01: Deep Neural Networks in PyTorch](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab01/notebooks/lab01_pytorch.ipynb)
 - [] [Solution]()
 
 #### Lab 2a:  PyTorch Lightning
